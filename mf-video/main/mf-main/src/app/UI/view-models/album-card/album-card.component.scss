@@ -1,0 +1,29 @@
+.card {
+  text-align: center;
+  display: inline-block;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+  padding: 10px;
+}
+
+.card-1 {
+  box-shadow: 0 5px 10px #f37320,
+    0 10px 10px #f37320;
+  transition: all 0.3s #f37320;
+}
+
+.card-1:hover {
+  box-shadow: 0 48px 58px #f37320,
+    0 10px 10px #f37320;
+}
+h2,
+h1 {
+  margin-bottom: 2px;
+}
+h3 {
+  margin-top: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #e2e1e0;
+}

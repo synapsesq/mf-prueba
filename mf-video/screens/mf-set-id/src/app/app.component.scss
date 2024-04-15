@@ -1,0 +1,28 @@
+
+.card {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    min-height: 120px;
+    transition: all 0.3s #f37320;
+}
+.card-1 {
+    box-shadow: 0 5px 10px #f37320,
+        0 10px 10px #f37320;
+    transition: all 0.3s #f37320;
+}
+
+.card-1:hover {
+    box-shadow: 0 48px 58px #f37320,
+        0 10px 10px #f37320;
+}
+
+.bordered {
+    border: 5px solid #f37320;
+    margin: 20px;
+  }
+  .notBorder {
+    border: none;
+  }
+  
